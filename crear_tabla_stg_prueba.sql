@@ -1,0 +1,5 @@
+# Crear tabla para el procedimiento
+CREATE TABLE WMONTANO.STG_PRUEBA
+( FECHA VARCHAR2(16),
+  NOMMBRE VARCHAR2(64)
+ ); 
